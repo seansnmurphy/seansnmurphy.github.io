@@ -1,3 +1,5 @@
+remote_theme: sparanoid/almace-scaffolding
+
 # Where things are
 source              : .
 destination         : ./_site
